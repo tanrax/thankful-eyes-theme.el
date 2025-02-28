@@ -16,7 +16,7 @@ You can also add the following to your init file:
 
 *** Manual
 
-**** 1. Download the theme file to your emacs themes directory, for example =~.emacs.d/themes/=.
+**** 1. Download the theme file to your emacs themes directory, for example =~/.emacs.d/themes/=.
 
 #+BEGIN_SRC sh
   mkdir -p ~/.emacs.d/themes/
