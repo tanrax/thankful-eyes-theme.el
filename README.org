@@ -16,21 +16,21 @@ You can also add the following to your init file:
 
 *** Manual
 
-1. Download the theme file to your emacs themes directory, for example ~~.emacs.d/themes/~.
+**** 1. Download the theme file to your emacs themes directory, for example ~~.emacs.d/themes/~.
 
 #+BEGIN_SRC sh
   mkdir -p ~/.emacs.d/themes/
   curl https://raw.githubusercontent.com/ianpan870102/thankful-eyes-theme/master/thankful-eyes-theme.el -o ~/.emacs.d/themes/thankful-eyes-theme.el
 #+END_SRC
 
-2. Add the following to your init file:
+**** 2. Add the following to your init file:
 
 #+BEGIN_SRC emacs-lisp
     (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
     (load-theme 'thankful-eyes t)
 #+END_SRC
 
-3. Enjoy
+**** 3. Enjoy
 
 ** Screenshots
 
