@@ -1,22 +1,24 @@
 * Thankful Eyes Theme
 
-Thankful Eyes es un tema oscuro para Emacs diseñado para ser amigable con la vista.
+Emacs theme, based on Thankful-eyes rouge, with a contrast ready for colour blind or visually impaired people.
 
-** Instalación
-1. Manual:
-   - Coloca el archivo =thankful-eyes-theme.el= en tu directorio =~/.emacs.d/themes/=
-   - Añade lo siguiente a tu =init.el=:
+** Install
 
-     #+begin_src emacs-lisp
-     (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
-     (load-theme 'thankful-eyes t)
-     #+end_src
+*** Manual
 
-2. MELPA (cuando se publique):
-   #+begin_src emacs-lisp
-   M-x package-install RET thankful-eyes-theme RET
-   (load-theme 'thankful-eyes t)
-   #+end_src
+Download the theme and add the following to your init file:
 
-** Captura de pantalla
-¡Pronto!
+#+BEGIN_SRC emacs-lisp
+(add-to-list 'custom-theme-load-path "~/.emacs.d/thankful-eyes-theme.el")
+(load-theme 'thankful-eyes t)
+#+END_SRC
+
+*** MELPA
+
+This theme is available in MELPA, so you can install it with ~M-x package-install RET thankful-eyes-theme RET~
+
+You can also add the following to your init file:
+
+#+BEGIN_SRC emacs-lisp
+(load-theme 'thankful-eyes t)
+#+END_SRC

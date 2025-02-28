@@ -1,14 +1,14 @@
-;;; thankful-eyes-theme.el --- Thankful Eyes: Un tema oscuro elegante para Emacs -*- lexical-binding: t; -*-
+;;; thankful-eyes-theme.el --- Theme with a contrast ready for colour blind or visually impaired people.  -*- lexical-binding: t; -*-
 
-;; Author: Tu Nombre <tu@email.com>
-;; URL: https://github.com/tuusuario/thankful-eyes-theme
+;; Author: Andros Fenollosa <hi@andros.dev>
+;; URL: https://github.com/tanrax/thankful-eyes-theme.el
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "24.1"))
-;; Keywords: themes, color
+;; Keywords: themes, color, accessibility, blind, contrast, thankful, eyes
 
 ;;; Commentary:
-;; Este es el tema Thankful Eyes para Emacs. Inspirado en colores oscuros con
-;; tonos suaves para la vista.
+;; This theme is designed to be high contrast and easy to read for people with
+;; color blindness or visual impairments.
 
 ;;; Code:
 
