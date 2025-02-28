@@ -12,7 +12,7 @@
 
 ;;; Code:
 
-(deftheme thankful-eyes "Thankful Eyes theme for Emacs")
+(deftheme thankful-eyes "Thankful Eyes theme for Emacs.")
 
 (custom-theme-set-faces
  'thankful-eyes
