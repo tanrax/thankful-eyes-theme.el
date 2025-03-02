@@ -1,10 +1,10 @@
-;;; thankful-eyes-theme.el --- High-contrast theme for color blindness and visual impairments  -*- lexical-binding: t; -*-
+;;; thankful-eyes-theme.el --- Theme for color blindness and visual impairments  -*- lexical-binding: t; -*-
 
 ;; Author: Andros Fenollosa <hi@andros.dev>
 ;; URL: https://github.com/tanrax/thankful-eyes-theme.el
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "24.1"))
-;; Keywords: themes, accessibility
+;; Keywords: faces
 
 ;;; Commentary:
 ;; This theme is designed to be high contrast and easy to read for people with
