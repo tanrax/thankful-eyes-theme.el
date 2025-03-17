@@ -55,7 +55,7 @@
  '(isearch ((t (:foreground "#122b3b" :background "#f6dd62"))))
  '(lazy-highlight ((t (:foreground "#122b3b" :background "#fff0a6"))))
  '(error ((t (:foreground "#cc0000" :weight bold))))
- '(tab-bar ((t (:background "#1c2f3b" :foreground "#a8e1fe" :box (:line-width 2 :color "#1c2f3b")))))
+ '(tab-bar ((t (:background "#122b3b" :foreground "#a8e1fe" :box (:line-width 2 :color "#1c2f3b")))))
  '(tab-bar-tab ((t (:background "#4e5d62" :foreground "#faf6e4" :box (:line-width 2 :color "#4e5d62")))))
  '(tab-bar-tab-inactive ((t (:background "#1c2f3b" :foreground "#6c8b9f" :box (:line-width 2 :color "#1c2f3b")))))
  '(tab-line ((t (:background "#1c2f3b" :foreground "#a8e1fe" :box (:line-width 2 :color "#1c2f3b")))))
