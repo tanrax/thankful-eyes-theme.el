@@ -6,7 +6,11 @@ Emacs theme, based on Thankful-eyes rouge, with a contrast ready for colour blin
 
 *** MELPA
 
-This theme is available in MELPA, so you can install it with ~M-x package-install RET thankful-eyes-theme RET~
+This theme is available in MELPA:
+
+#+BEGIN_SRC shell
+M-x package-install RET thankful-eyes-theme RET
+#+END_SRC
 
 You can also add the following to your init file:
 
